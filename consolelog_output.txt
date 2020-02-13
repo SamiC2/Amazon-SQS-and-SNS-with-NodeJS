@@ -1,0 +1,593 @@
+Deleted message RequestId: "0a24f1aa-1e39-5f20-b997-a707b9e25f17"
+Deleted message RequestId: "77e4f67c-81d8-5ff4-9e55-a0d12603a469"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 11.
+Processing message: This is the content for message 36.
+Processing message: This is the content for message 37.
+Processing message: This is the content for message 22.
+Processing message: This is the content for message 23.
+Processing message: This is the content for message 40.
+Processing message: This is the content for message 41.
+Processing message: This is the content for message 6.
+Processing message: This is the content for message 7.
+Processing message: This is the content for message 12.
+Deleted message RequestId: "5ff8ada2-7629-5219-97b6-fb0fd1f560e4"
+Deleted message RequestId: "af90cde0-ca38-5eb0-8388-9b4d6de44210"
+Deleted message RequestId: "79b1c827-ce23-5117-8eb7-9e8a69ffe754"
+Deleted message RequestId: "5c692538-3660-5484-98de-739591bcd7df"
+Deleted message RequestId: "aff7f139-720f-58e1-a684-a794d5d3fd9b"
+Deleted message RequestId: "252d5df8-9baa-5a46-97cb-0b553c763b7a"
+Deleted message RequestId: "9a4ff882-7b04-5eda-93d1-ae2fdcd83e04"
+Deleted message RequestId: "54bb9976-6a36-5485-a96b-cfdbcdea1d40"
+Deleted message RequestId: "b26b4fd0-2872-5558-8e4f-197d8faefda4"
+Deleted message RequestId: "b8e7b312-dbca-58fa-a576-e5bf7c161e27"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 30.
+Processing message: This is the content for message 31.
+Processing message: This is the content for message 26.
+Processing message: This is the content for message 27.
+Processing message: This is the content for message 44.
+Processing message: This is the content for message 45.
+Processing message: This is the content for message 0.
+Processing message: This is the content for message 1.
+Processing message: This is the content for message 18.
+Processing message: This is the content for message 19.
+Deleted message RequestId: "f2387b18-9830-5a4e-ae50-2db53fedb6ee"
+Deleted message RequestId: "345c60cd-e481-57da-85a3-3660435c42a0"
+Deleted message RequestId: "d8368914-ca4b-58c3-94ca-dfb96d96299d"
+Deleted message RequestId: "bcba07ef-f667-59a5-9596-514251bafd81"
+Deleted message RequestId: "b6095378-7356-58ff-8fa4-05d5d48b5d85"
+Deleted message RequestId: "5d5d083d-2305-5842-b7a3-5e9084d85b19"
+Deleted message RequestId: "b7c26fd9-271f-580c-82d1-397480c2fe4f"
+Deleted message RequestId: "7d818f51-3d69-58f0-9474-d9fc9ab41419"
+Deleted message RequestId: "78760c04-7f43-570d-b8c3-5aa9d89ebab1"
+Deleted message RequestId: "238c814a-9e12-583a-ad94-d7e739cfef65"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 6.
+Processing message: This is the content for message 3.
+Processing message: This is the content for message 10.
+Processing message: This is the content for message 12.
+Processing message: This is the content for message 13.
+Processing message: This is the content for message 14.
+Processing message: This is the content for message 29.
+Processing message: This is the content for message 41.
+Processing message: This is the content for message 33.
+Processing message: This is the content for message 36.
+Deleted message RequestId: "a61cf11d-b740-52f5-bc97-a7b0109e0677"
+Deleted message RequestId: "7ef596db-d969-5eb8-a512-c0767eb7d7a6"
+Deleted message RequestId: "acedf0bc-6970-5c02-8a74-a611ceaea73f"
+Deleted message RequestId: "6ccf892d-8d08-56ff-a1a0-df802ad6c000"
+Deleted message RequestId: "b3b39e03-624f-5a99-a187-c8aec591f259"
+Deleted message RequestId: "6f14a96d-e707-57fd-b481-ffc040d9053c"
+Deleted message RequestId: "47c3816f-1aa9-56e2-b6d3-d7c2bd77b5b9"
+Deleted message RequestId: "dd4ec903-1bed-5c25-bbb4-9faebc3358c5"
+Deleted message RequestId: "a98d1290-6837-52f8-87cb-443dcfe9b09b"
+Deleted message RequestId: "5d903a28-8061-5146-830e-6c8527bf1531"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 0.
+Processing message: This is the content for message 5.
+Processing message: This is the content for message 17.
+Processing message: This is the content for message 30.
+Processing message: This is the content for message 42.
+Processing message: This is the content for message 43.
+Processing message: This is the content for message 16.
+Processing message: This is the content for message 17.
+Processing message: This is the content for message 2.
+Processing message: This is the content for message 32.
+Deleted message RequestId: "81c986e5-8fed-584e-bfcf-d04828322910"
+Deleted message RequestId: "088f2bdd-65fe-5764-abee-7d70c221ca38"
+Deleted message RequestId: "dd0910fd-47cf-5ee2-bdef-4650e010e680"
+Deleted message RequestId: "1671ea13-401c-5afa-8635-bcbee7c316b8"
+Deleted message RequestId: "07fd17ba-1436-54ea-935a-4117b3e95a8b"
+Deleted message RequestId: "4d1c5385-57c4-5f75-8adc-0528f01b6ff5"
+Deleted message RequestId: "9ec35197-5146-50e4-9ba3-073af699987a"
+Deleted message RequestId: "beeddf64-63ef-552e-befc-89c9c4306f0d"
+Deleted message RequestId: "45cfa890-93dd-5944-b0d0-fe3d3402c023"
+Deleted message RequestId: "bff16c4b-2f8a-5390-b0ad-3ae688551b94"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 20.
+Processing message: This is the content for message 32.
+Processing message: This is the content for message 13.
+Processing message: This is the content for message 21.
+Processing message: This is the content for message 33.
+Processing message: This is the content for message 38.
+Processing message: This is the content for message 26.
+Processing message: This is the content for message 39.
+Processing message: This is the content for message 2.
+Processing message: This is the content for message 44.
+Deleted message RequestId: "753c1c2e-4ac1-574f-b113-4a83ed21d3af"
+Deleted message RequestId: "862116fb-8396-5a86-aeba-405624766bd8"
+Deleted message RequestId: "a7080788-77ba-5f11-967f-5125d05abee9"
+Deleted message RequestId: "13b962ed-5020-520e-802b-3440f7c040cf"
+Deleted message RequestId: "927dab67-7bb3-5805-8ece-fdcadc5324ec"
+Deleted message RequestId: "89ccbf04-1fc0-56c0-a633-e9a9b8204380"
+Deleted message RequestId: "7dd6057d-490e-502c-b188-53d0eeeefff5"
+Deleted message RequestId: "fbbcb0ec-8de0-5186-8f4b-e6412a00b6d9"
+Deleted message RequestId: "47f23276-d417-5c8a-9e38-64db73f7026b"
+Deleted message RequestId: "6e8b739a-8afa-5979-aa03-25372d1a4fef"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 46.
+Processing message: This is the content for message 47.
+Processing message: This is the content for message 34.
+Processing message: This is the content for message 24.
+Processing message: This is the content for message 6.
+Processing message: This is the content for message 40.
+Processing message: This is the content for message 10.
+Processing message: This is the content for message 35.
+Processing message: This is the content for message 25.
+Processing message: This is the content for message 41.
+Deleted message RequestId: "588729ae-826c-5fe6-9d0d-7f03258d52ba"
+Deleted message RequestId: "95312e1e-6018-50b0-9186-78b3c7f98cf2"
+Deleted message RequestId: "abc8be74-5318-5b25-a4f0-e8d9f4f94a7b"
+Deleted message RequestId: "2556cf54-410e-583d-a75b-99f9e6ef305f"
+Deleted message RequestId: "ff88bea3-f1ba-5091-805d-e80e565b7d2d"
+Deleted message RequestId: "26437529-7d18-5f3b-bd1f-2384daf9e864"
+Deleted message RequestId: "acf04655-6293-54c8-9aab-10f8c572a821"
+Deleted message RequestId: "3fe6046b-66ba-510d-bd63-52c6c15b08d7"
+Deleted message RequestId: "a7647eb6-9143-5f6f-a1b7-281b36a2948b"
+Deleted message RequestId: "6931adec-add7-5a39-9a2b-fb410a36743a"
+Received 2 messages from SQS queue.
+Processing message: This is the content for message 11.
+Processing message: This is the content for message 7.
+Deleted message RequestId: "5dc0666c-c351-532d-b2dd-30c164b3ecf6"
+Deleted message RequestId: "2bdf65bf-885e-510f-82a6-33122fbc918f"
+Received 5 messages from SQS queue.
+Processing message: This is the content for message 42.
+Processing message: This is the content for message 23.
+Processing message: This is the content for message 12.
+Processing message: This is the content for message 43.
+Processing message: This is the content for message 13.
+Deleted message RequestId: "3c45d0d5-50df-5ad0-8aa1-8678f73c850b"
+Deleted message RequestId: "f617ee3e-5d65-54e0-8f20-b893fa8600e2"
+Deleted message RequestId: "167aa408-c1ba-5ff0-8a73-f2a56659698f"
+Deleted message RequestId: "ab4ce46b-e870-537b-9bd6-b2c64f93c6e7"
+Deleted message RequestId: "3cee349b-c93b-5ff2-9147-62366ed8b854"
+Received 5 messages from SQS queue.
+Processing message: This is the content for message 27.
+Processing message: This is the content for message 16.
+Processing message: This is the content for message 3.
+Processing message: This is the content for message 45.
+Processing message: This is the content for message 17.
+Deleted message RequestId: "6cd58c5c-f754-5175-baf6-daf150b0b736"
+Deleted message RequestId: "c978e415-b4e4-58a0-94eb-b2b81300a17c"
+Deleted message RequestId: "7105d385-082b-521f-be5d-8528afcf2781"
+Deleted message RequestId: "5dc7f7f6-29d8-55c2-b78d-a15b8e3c15c2"
+Deleted message RequestId: "36593443-8646-5aaa-9c09-62ee21a22d17"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 45.
+Processing message: This is the content for message 46.
+Processing message: This is the content for message 18.
+Processing message: This is the content for message 19.
+Processing message: This is the content for message 4.
+Processing message: This is the content for message 38.
+Processing message: This is the content for message 5.
+Processing message: This is the content for message 39.
+Processing message: This is the content for message 48.
+Processing message: This is the content for message 49.
+Deleted message RequestId: "1c14c9b6-bd3d-54a1-a5fb-9f1b1ad821c4"
+Deleted message RequestId: "9e80dcdb-74bc-5139-ace3-8a76d359b0bc"
+Deleted message RequestId: "3f205c39-d816-5419-bc82-0a947ff3295e"
+Deleted message RequestId: "d5e73c24-e0f5-59ed-9fce-6a894710968b"
+Deleted message RequestId: "aa396e4e-46ec-5402-9137-38e3e109e87c"
+Deleted message RequestId: "118f677c-b7f5-51f6-b1ec-31d11010b06c"
+Deleted message RequestId: "12c1d0aa-aee5-5dc4-a452-86070900ee60"
+Deleted message RequestId: "446169ad-b5da-52ec-858e-3f00123f1193"
+Deleted message RequestId: "d6ae8684-49bb-5407-8543-d029ee5eeeba"
+Deleted message RequestId: "1d468f30-50f7-546c-8cac-d99df712172a"
+Received 8 messages from SQS queue.
+Processing message: This is the content for message 48.
+Processing message: This is the content for message 35.
+Processing message: This is the content for message 25.
+Processing message: This is the content for message 49.
+Processing message: This is the content for message 8.
+Processing message: This is the content for message 14.
+Processing message: This is the content for message 9.
+Processing message: This is the content for message 15.
+Deleted message RequestId: "09cbebc4-69a3-52dc-baeb-bd69ce45a3dc"
+Deleted message RequestId: "eb8e0ed6-452c-5dc5-99f6-587be2ca3885"
+Deleted message RequestId: "f90efc94-516c-5ee4-9b63-aa39f68a8182"
+Deleted message RequestId: "7f5ded19-496e-56be-a112-bbb4ee88073b"
+Deleted message RequestId: "547db62b-a001-5fac-ae85-e08607e773d2"
+Deleted message RequestId: "43fb2f23-51e0-5cd5-844f-798ef60675ab"
+Deleted message RequestId: "55d67f9d-64ad-576c-9052-2930c34b5a2b"
+Deleted message RequestId: "dbc26c2e-6ff8-5809-bda6-3a83c81e7256"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 3.
+Processing message: This is the content for message 33.
+Processing message: This is the content for message 24.
+Processing message: This is the content for message 25.
+Processing message: This is the content for message 46.
+Processing message: This is the content for message 47.
+Processing message: This is the content for message 2.
+Processing message: This is the content for message 3.
+Processing message: This is the content for message 14.
+Processing message: This is the content for message 22.
+Deleted message RequestId: "949797b0-482c-551e-8822-c11defcb133f"
+Deleted message RequestId: "297dc4b3-fd04-5fe9-8d28-921e5ae36d14"
+Deleted message RequestId: "5c27778d-09f1-5691-8cbd-2120ae16ba31"
+Deleted message RequestId: "76a69ab5-aa45-5ab5-9471-cc180da2022b"
+Deleted message RequestId: "a60c69ea-3b02-52f0-8d0f-3f479ce5c4b3"
+Deleted message RequestId: "7afc909d-19e6-5c2c-952d-c630be01e54b"
+Deleted message RequestId: "4751a045-badd-5e03-bd1b-f6e81d3a2a63"
+Deleted message RequestId: "2d16748d-66c1-5fad-84e9-2220c1264f73"
+Deleted message RequestId: "5f6470f9-094c-505e-a5aa-2654aeab61bd"
+Deleted message RequestId: "db4a002d-cd8b-5211-9882-56806a6ccdd5"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 38.
+Processing message: This is the content for message 15.
+Processing message: This is the content for message 40.
+Processing message: This is the content for message 23.
+Processing message: This is the content for message 39.
+Processing message: This is the content for message 41.
+Processing message: This is the content for message 36.
+Processing message: This is the content for message 28.
+Processing message: This is the content for message 0.
+Processing message: This is the content for message 48.
+Deleted message RequestId: "53d47034-34bb-5e9b-be11-26999353e3dc"
+Deleted message RequestId: "c5041c87-b428-5015-8436-4a2a13c0e18f"
+Deleted message RequestId: "db68b628-971c-5323-8d62-e08530f4105c"
+Deleted message RequestId: "5bcf28e3-bf0c-545c-8649-7e4e18e4b05e"
+Deleted message RequestId: "357c8d00-44f3-55e5-9038-dbade31b6f58"
+Deleted message RequestId: "e66cdd10-1ea7-5fe6-a3ce-8bbdb94fe55b"
+Deleted message RequestId: "97d2269b-5e06-5531-b8f0-7036f9ee764e"
+Deleted message RequestId: "9af36b0d-9af3-5057-a745-3da03d1b77f1"
+Deleted message RequestId: "f5211ee7-b7a1-5c39-a6dc-484a1049e9fa"
+Deleted message RequestId: "20ccf007-9ed6-52d9-a31e-a6aa393e871a"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 36.
+Processing message: This is the content for message 28.
+Processing message: This is the content for message 42.
+Processing message: This is the content for message 37.
+Processing message: This is the content for message 29.
+Processing message: This is the content for message 43.
+Processing message: This is the content for message 20.
+Processing message: This is the content for message 30.
+Processing message: This is the content for message 46.
+Processing message: This is the content for message 18.
+Deleted message RequestId: "a3d7ed0a-79e3-5a66-821e-bba7de0a5a66"
+Deleted message RequestId: "953bd8f8-1cb3-5a18-99ef-8e55bb5ae1fc"
+Deleted message RequestId: "aa1373ae-e25d-5bf5-a5cc-250345b4e230"
+Deleted message RequestId: "6ce357eb-7dd4-563e-9c24-0146da3dbec2"
+Deleted message RequestId: "c34f380b-fad5-558c-b8a6-6ea65d3c9351"
+Deleted message RequestId: "7483fda7-b3eb-50eb-98a2-ab0a14020756"
+Deleted message RequestId: "2286e18b-b46d-5890-a7eb-b72613844d0e"
+Deleted message RequestId: "05311a89-4323-5c2a-9795-4c24e4ca2c08"
+Deleted message RequestId: "06b6ca4d-c1ea-58de-8010-9ce0660366dd"
+Deleted message RequestId: "6fae157f-d808-5e4f-bb80-43d27fe1a3ae"
+Received 4 messages from SQS queue.
+Processing message: This is the content for message 29.
+Processing message: This is the content for message 37.
+Processing message: This is the content for message 49.
+Processing message: This is the content for message 1.
+Deleted message RequestId: "af53c75a-5eb5-5d55-8fae-91f7f95fed8b"
+Deleted message RequestId: "75faca87-45eb-5adf-9f75-9c2ae20156a1"
+Deleted message RequestId: "03f32d62-22c0-5b6c-99fe-7bcf852a140a"
+Deleted message RequestId: "3d70a5b6-a607-5222-a1fc-f31b01ed93a7"
+Received 6 messages from SQS queue.
+Processing message: This is the content for message 21.
+Processing message: This is the content for message 31.
+Processing message: This is the content for message 4.
+Processing message: This is the content for message 47.
+Processing message: This is the content for message 19.
+Processing message: This is the content for message 5.
+Deleted message RequestId: "a7504302-3810-59aa-9795-15af9ffb74ed"
+Deleted message RequestId: "7c8f4a38-e583-5e19-ad3a-1c954268d4a4"
+Deleted message RequestId: "7f19ab8f-0595-5a4a-bba4-fd22a27e3bd0"
+Deleted message RequestId: "193a622c-2749-55ab-abd4-348180a227f3"
+Deleted message RequestId: "377a8b24-1994-5a3f-b293-dd89be7f8940"
+Deleted message RequestId: "7740e765-439f-5213-ac0f-b1c8e4743fb6"
+SQS queue empty, waiting for 60s.
+^C
+ec2-user:~/environment $ node index.js
+Successfully created SQS queue URL https://sqs.us-east-2.amazonaws.com/175028240505/backspace-lab
+Sending message: This is the content for message 0.,This is the content for message 1.,This is the content for message 2.,This is the content for message 3.,This is the content for message 4.,This is the content for message 5.,This is the content for message 6.,This is the content for message 7.,This is the content for message 8.,This is the content for message 9.
+Sending message: This is the content for message 10.,This is the content for message 11.,This is the content for message 12.,This is the content for message 13.,This is the content for message 14.,This is the content for message 15.,This is the content for message 16.,This is the content for message 17.,This is the content for message 18.,This is the content for message 19.
+Sending message: This is the content for message 20.,This is the content for message 21.,This is the content for message 22.,This is the content for message 23.,This is the content for message 24.,This is the content for message 25.,This is the content for message 26.,This is the content for message 27.,This is the content for message 28.,This is the content for message 29.
+Sending message: This is the content for message 30.,This is the content for message 31.,This is the content for message 32.,This is the content for message 33.,This is the content for message 34.,This is the content for message 35.,This is the content for message 36.,This is the content for message 37.,This is the content for message 38.,This is the content for message 39.
+Sending message: This is the content for message 40.,This is the content for message 41.,This is the content for message 42.,This is the content for message 43.,This is the content for message 44.,This is the content for message 45.,This is the content for message 46.,This is the content for message 47.,This is the content for message 48.,This is the content for message 49.
+{ ResponseMetadata: { RequestId: '7dcb535c-9190-59f5-ab48-05f13b9f8976' },
+  Successful:
+   [ { Id: 'Message30',
+       MessageId: 'f9383e4d-dc8d-408e-ba0e-48ae4b88e4b8',
+       MD5OfMessageBody: 'fd7daff8bea7608dfb58e5c6ad4bfc71' },
+     { Id: 'Message31',
+       MessageId: '630acc93-4ccd-4ab4-97a4-406751101d99',
+       MD5OfMessageBody: 'e251dd841de1574a70e7dc7decabd159' },
+     { Id: 'Message32',
+       MessageId: 'c82ba57b-66b0-4bd0-ac54-4f8584542272',
+       MD5OfMessageBody: '1561c192aec6bb33c1fa924f8bf64f4a' },
+     { Id: 'Message33',
+       MessageId: '39d46ac9-540c-4afc-b874-55b0be988def',
+       MD5OfMessageBody: '38983023ced281c37aba81a9e498c01e' },
+     { Id: 'Message34',
+       MessageId: 'e8bc8e3a-b115-4a16-8229-8f54c71f987b',
+       MD5OfMessageBody: '8282f267fbfde4af63c6d16e90dd0681' },
+     { Id: 'Message35',
+       MessageId: 'f6b244b8-468c-48f1-bcf3-367d30803802',
+       MD5OfMessageBody: 'bdf031d4e0839469bb0d8756d751810a' },
+     { Id: 'Message36',
+       MessageId: '5a2fc2b3-27e1-4b70-abf2-83de0f9c3e86',
+       MD5OfMessageBody: 'dff5c9bc7469618ce11dfc2e21203700' },
+     { Id: 'Message37',
+       MessageId: '42398480-a761-43a0-ad5b-ac8888d4ac65',
+       MD5OfMessageBody: 'bc5b30cb54e4d2f01e4d9a3fa2b5a8b4' },
+     { Id: 'Message38',
+       MessageId: 'af59623b-57c8-4f91-846f-49da05a21d96',
+       MD5OfMessageBody: 'e9e39fbf0de9d6e1ec9116541090bad0' },
+     { Id: 'Message39',
+       MessageId: 'c388ed86-5cb9-4256-964a-0ef760e11db9',
+       MD5OfMessageBody: '7a92454a247b47b3a1562f025e16f8e0' } ],
+  Failed: [] }
+{ ResponseMetadata: { RequestId: 'b37f3cc5-473c-5380-aa81-6a68ed333e06' },
+  Successful:
+   [ { Id: 'Message0',
+       MessageId: '5afcfcca-cc17-436b-9451-9105a4877b05',
+       MD5OfMessageBody: '1f3b602778c193c0860aae6b5ed75b59' },
+     { Id: 'Message1',
+       MessageId: 'd7038bc8-2d15-4dcf-9208-493601ed0f8a',
+       MD5OfMessageBody: '0f325dd656683dae6578c3b3e8e3fb3b' },
+     { Id: 'Message2',
+       MessageId: '109e0c6c-77dd-43dd-9efb-190c0a65e735',
+       MD5OfMessageBody: '8ca5fe1794f16b9c614235edf30b02da' },
+     { Id: 'Message3',
+       MessageId: '6001a014-ce5e-4ad7-bd7e-7e70399186ce',
+       MD5OfMessageBody: 'eb118470ca5ffc70ac627f9eb66511de' },
+     { Id: 'Message4',
+       MessageId: '34c4ba65-117c-4221-8b3b-f92b1f2d7d34',
+       MD5OfMessageBody: '463de0503f8035a1703f3df5382d5400' },
+     { Id: 'Message5',
+       MessageId: '733e535d-1b44-4f31-a63a-0b8ab38a22e9',
+       MD5OfMessageBody: '7da11f68596459ab8496a3c05323e800' },
+     { Id: 'Message6',
+       MessageId: 'db04887c-19bd-4736-ad05-fc4908e78891',
+       MD5OfMessageBody: '6a6fe9e8e21aff12ba4790d7a186c1e8' },
+     { Id: 'Message7',
+       MessageId: 'd3dff376-f1ab-4dba-8203-5f00c81cf23e',
+       MD5OfMessageBody: '933be285c10d89630be201e198c5c41d' },
+     { Id: 'Message8',
+       MessageId: '4644468c-d21f-4de4-b402-9a80aa7616d4',
+       MD5OfMessageBody: 'e63f9b957c1bc16b2d9e92b0809d0183' },
+     { Id: 'Message9',
+       MessageId: '59f9b8eb-f629-4228-b472-ed070546108b',
+       MD5OfMessageBody: '9e10e0a0c7f796510d82a7d30b167a7f' } ],
+  Failed: [] }
+{ ResponseMetadata: { RequestId: '1717f56b-53f0-597d-a3e3-a3c6f9ff14e6' },
+  Successful:
+   [ { Id: 'Message10',
+       MessageId: '44e9fea9-7f6a-4746-8f94-b997b7c1a140',
+       MD5OfMessageBody: 'b4ca93357270cbfda94c780b7507c9f8' },
+     { Id: 'Message11',
+       MessageId: 'a7f700c2-6a11-47e2-aacc-e35bdcf90c35',
+       MD5OfMessageBody: 'efa860616a68ffef55589d58b6f2e4c3' },
+     { Id: 'Message12',
+       MessageId: '4539f6a7-80c1-43f6-b409-fba80fc1caf8',
+       MD5OfMessageBody: '4a601726a5933f07def7e41d9185d2e4' },
+     { Id: 'Message13',
+       MessageId: 'e6cc5943-acc3-4ea3-8173-de30c17b14f8',
+       MD5OfMessageBody: '704c3797552697d3b0c779c6be641be1' },
+     { Id: 'Message14',
+       MessageId: '6534cad2-09bd-433e-97d5-2da3f8989039',
+       MD5OfMessageBody: 'f81dbf213cdb74b3bb1add13d4524f14' },
+     { Id: 'Message15',
+       MessageId: '737282fe-d7fa-4087-bb9d-0095c3e0f9a4',
+       MD5OfMessageBody: 'e55ead32ff38a79699066ea5fff5b95a' },
+     { Id: 'Message16',
+       MessageId: 'f0ca86aa-b2f4-4ac1-b035-81b4b017fb50',
+       MD5OfMessageBody: '8ae8e51839fbd7ac80e4f54fdd97e7d2' },
+     { Id: 'Message17',
+       MessageId: '9208b33e-69ab-44de-aa9e-c5d56c032128',
+       MD5OfMessageBody: 'a7af6c29b43e00c5a5fd0912c1a444e9' },
+     { Id: 'Message18',
+       MessageId: '935ec65d-5d99-40da-ab09-5de9cd79e50a',
+       MD5OfMessageBody: '0cfeed592f0484285cf826a6d08448f2' },
+     { Id: 'Message19',
+       MessageId: '3ed36964-d8f8-4bb9-af66-e15154a479d3',
+       MD5OfMessageBody: '0fb2e2e4a987e328a4745c697bd7e09a' } ],
+  Failed: [] }
+{ ResponseMetadata: { RequestId: 'd9ee419c-151c-5bee-b343-1731bf136dd7' },
+  Successful:
+   [ { Id: 'Message40',
+       MessageId: 'f3471038-078d-4159-8447-1708a5348405',
+       MD5OfMessageBody: 'dce778ffb4990476b55a83d4e701a2a4' },
+     { Id: 'Message41',
+       MessageId: 'e3774495-4b99-4886-9a86-6054b822fbc9',
+       MD5OfMessageBody: 'a9cf3f6873a4bf550ce84b544c9434db' },
+     { Id: 'Message42',
+       MessageId: '5ca3fc51-86fc-4f95-8dde-a43800c1c789',
+       MD5OfMessageBody: '36d0b47845bf5016f61d80294b1e1f18' },
+     { Id: 'Message43',
+       MessageId: 'fdf099e7-8e37-4864-a738-23cf7a4d635d',
+       MD5OfMessageBody: '8b95bc8212ec6b229533457d72b6f7eb' },
+     { Id: 'Message44',
+       MessageId: 'd8fa8aa1-d9a5-4bf8-95ca-79e156e75dc6',
+       MD5OfMessageBody: '89be0cfd6a234579175af4d47dfd4eb7' },
+     { Id: 'Message45',
+       MessageId: 'd5b70ab9-d7b6-451f-a84d-e36ccfb79bfe',
+       MD5OfMessageBody: '988a4a70e12609ff286cf7841c80f0cb' },
+     { Id: 'Message46',
+       MessageId: 'dfe21830-4ca9-4d1d-9d7b-52d63361b614',
+       MD5OfMessageBody: '136177f8d8ac551fdd1fed1b1e3c3971' },
+     { Id: 'Message47',
+       MessageId: '1422f5ff-beaa-4948-baa2-9589e5ca0d63',
+       MD5OfMessageBody: '2490bad01d62fbe7831da03e206ed52c' },
+     { Id: 'Message48',
+       MessageId: '3e026bbd-419b-4ef0-8f35-902888275e6a',
+       MD5OfMessageBody: '4ab8acce6af2058627b67bc554f3589e' },
+     { Id: 'Message49',
+       MessageId: 'd2226f8a-2553-4304-8280-f9aff2d96518',
+       MD5OfMessageBody: '0223852ab0ed50bb398f43dafbc787db' } ],
+  Failed: [] }
+{ ResponseMetadata: { RequestId: 'e5fcac9b-931b-560f-91f8-fa363914f126' },
+  Successful:
+   [ { Id: 'Message20',
+       MessageId: 'ac7a336b-3004-4ace-b7a0-31ef89cc1b46',
+       MD5OfMessageBody: '21b03464efd9e89b744a9f0b30b31edc' },
+     { Id: 'Message21',
+       MessageId: 'c6f8beeb-70d9-4d10-a8d8-0cfc4641c2cc',
+       MD5OfMessageBody: '8216b48cdf162081fa202ad75187079c' },
+     { Id: 'Message22',
+       MessageId: '87b25abb-ce9e-4a1b-a2b1-d023cf434526',
+       MD5OfMessageBody: 'c60e7804cf630c1a8dabcb29071f3b58' },
+     { Id: 'Message23',
+       MessageId: '46167aa0-081a-4707-8cad-7292d3435c57',
+       MD5OfMessageBody: '9f91fd6dec25d4b043d6757de75a953f' },
+     { Id: 'Message24',
+       MessageId: '2eaf5f2f-6da2-4f33-a8db-4fd72884a084',
+       MD5OfMessageBody: '4cd5ef9ccb6ea8cc710d966c7a35ef82' },
+     { Id: 'Message25',
+       MessageId: '1b18ab25-5189-4428-a92a-7f64df847db7',
+       MD5OfMessageBody: '03e304b9ecd8c06164df1dfe018b6b0c' },
+     { Id: 'Message26',
+       MessageId: '73801df5-99b2-4836-b2a7-8465a3d96ea8',
+       MD5OfMessageBody: '87c4c5f0629e72e97f775875e5454e15' },
+     { Id: 'Message27',
+       MessageId: 'df55bdae-b7ad-4f66-897b-a07e7304149c',
+       MD5OfMessageBody: 'ec14f5e0ef2a1ba0375f229386f81e70' },
+     { Id: 'Message28',
+       MessageId: '221ee2dc-3720-48a0-b6c1-13b86bf8b324',
+       MD5OfMessageBody: 'a0c7117be7ccb16a948f73fa4f950d9d' },
+     { Id: 'Message29',
+       MessageId: 'b048ed14-3206-4ad5-80f7-55f37b9038e2',
+       MD5OfMessageBody: '76746c9bafbf9e5ef9630f2de295beab' } ],
+  Failed: [] }
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 30.
+Processing message: This is the content for message 4.
+Processing message: This is the content for message 31.
+Processing message: This is the content for message 5.
+Processing message: This is the content for message 14.
+Processing message: This is the content for message 42.
+Processing message: This is the content for message 15.
+Processing message: This is the content for message 26.
+Processing message: This is the content for message 43.
+Processing message: This is the content for message 27.
+Deleted message RequestId: "9b1a1bd3-cad8-5f85-b704-4d7e60c8de63"
+Deleted message RequestId: "74258189-9e0a-58d8-9c63-d724341a0da5"
+Deleted message RequestId: "fd8c12c0-4359-5589-beeb-446de9497a55"
+Deleted message RequestId: "4423ae3b-cd15-5387-bbef-f8966705c0bb"
+Deleted message RequestId: "03d377cf-e861-53ac-aec1-2162427122b1"
+Deleted message RequestId: "fd107809-2454-5187-97c3-2ea48e44467b"
+Deleted message RequestId: "499d1ed1-b680-5c89-aa24-487c1c9057c9"
+Deleted message RequestId: "b501dc26-5847-5c47-883e-8a8bf257941f"
+Deleted message RequestId: "51459611-16df-5fd4-b77b-c0bcbccfcc6a"
+Deleted message RequestId: "08c91c9e-2163-50db-8d4e-4a338b73b9a4"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 32.
+Processing message: This is the content for message 2.
+Processing message: This is the content for message 33.
+Processing message: This is the content for message 3.
+Processing message: This is the content for message 10.
+Processing message: This is the content for message 46.
+Processing message: This is the content for message 11.
+Processing message: This is the content for message 20.
+Processing message: This is the content for message 47.
+Processing message: This is the content for message 21.
+Deleted message RequestId: "37d1fb2e-ee5c-5faf-964e-ad83444da7f7"
+Deleted message RequestId: "ea4573fc-7328-56e9-8309-2551d939f32f"
+Deleted message RequestId: "19cace6a-5748-5e3a-b5ca-98c7fd594fa7"
+Deleted message RequestId: "b8532eba-9bf4-546b-ba8d-781731e5dbb7"
+Deleted message RequestId: "5b17bd9c-5ebe-50a7-aef1-eb31f4af8300"
+Deleted message RequestId: "fca5635b-a51b-54ef-8903-35f60f0ace2f"
+Deleted message RequestId: "78a2e762-ee06-5131-9645-b1cf44172f86"
+Deleted message RequestId: "52439c39-4ae1-50b6-a367-ca94e0f0530a"
+Deleted message RequestId: "64bf1772-2a08-595f-9de4-41df801991fe"
+Deleted message RequestId: "8701b253-b2fe-5ee5-b98c-e4fe18efc7c4"
+Received 9 messages from SQS queue.
+Processing message: {
+  "Type" : "Notification",
+  "MessageId" : "eed6de69-904e-57aa-aa5c-88c439b80ffd",
+  "TopicArn" : "arn:aws:sns:us-east-2:175028240505:backspace-sqssnsnodejs-lab",
+  "Subject" : "SNS Message",
+  "Message" : "Hello! - My Message from AWS SNS!",
+  "Timestamp" : "2020-01-31T04:06:14.720Z",
+  "SignatureVersion" : "1",
+  "Signature" : "a4YaK9zeNLh6cNVcZgtFaT0tViwiLVqAH78tTHKmFX1Gf2OKQmAuLLYy349f6LFs44vBebhwoSYkmv6DgqGOnh6W9mCWwTK97Y2Mp2f66ouA44TM6wuPV+IuTpP0UnqWx22mmdRBqJStpeNhSIvFnvSI7NTlbH+gCBXSZaj6uKQtO3jfDmePMOtneKUikhj7mebIkqyCPnupgh7usoqkAC9zqTKGLXc5TrVb9ZPYp3Pj3NPcNHqj5T9Vsahn+sOgJXksdPdFImBhm8KZKmqdoCYefQerfDX4N/HAD2Qzqe5JCeTk9gMuS8QFVvc0Nsbo8rb3Q9RBqzDCyAk2D94CTQ==",
+  "SigningCertURL" : "https://sns.us-east-2.amazonaws.com/SimpleNotificationService-a86cb10b4e1f29c941702d737128f7b6.pem",
+  "UnsubscribeURL" : "https://sns.us-east-2.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-2:175028240505:backspace-sqssnsnodejs-lab:4ac2268f-d0a0-4b2e-ac24-0b94b269be0c"
+}
+Processing message: This is the content for message 36.
+Processing message: This is the content for message 37.
+Processing message: This is the content for message 8.
+Processing message: This is the content for message 16.
+Processing message: This is the content for message 9.
+Processing message: This is the content for message 17.
+Processing message: This is the content for message 28.
+Processing message: This is the content for message 29.
+Deleted message RequestId: "466c9552-7227-5fcc-beae-c3ffd835c48c"
+Deleted message RequestId: "4d74c29a-56f8-536a-930e-9437fcea996e"
+Deleted message RequestId: "708d0f4e-3b51-5df7-925b-59e3914361cf"
+Deleted message RequestId: "2ea89afd-e2a4-5e74-9297-cc5048b61fb0"
+Deleted message RequestId: "d066e034-ceb2-5cd0-8bec-b69964a09129"
+Deleted message RequestId: "71cf1ee5-3236-5719-bf53-484898244dfb"
+Deleted message RequestId: "ba19eb6e-a23b-5294-86de-bdc30829556e"
+Deleted message RequestId: "756ce51e-c2d0-5411-ae52-b3b368c2bdaa"
+Deleted message RequestId: "c3c8182b-07d5-5b6a-ae7e-4e86adc757c9"
+Received 8 messages from SQS queue.
+Processing message: This is the content for message 38.
+Processing message: This is the content for message 6.
+Processing message: This is the content for message 39.
+Processing message: This is the content for message 7.
+Processing message: This is the content for message 18.
+Processing message: This is the content for message 19.
+Processing message: This is the content for message 44.
+Processing message: This is the content for message 45.
+Deleted message RequestId: "7be9a92f-089e-51ae-bfc0-ff82a28de654"
+Deleted message RequestId: "56b9a324-861c-53f5-8ba0-f5892c0f640f"
+Deleted message RequestId: "8ff4935a-0e1d-53dd-8d51-c5f7a40e8606"
+Deleted message RequestId: "2a2b9614-f100-513a-a77d-c0b95b13c425"
+Deleted message RequestId: "f8aeea94-844e-59b3-93f4-bc392e5dbcac"
+Deleted message RequestId: "a4df76c1-1653-578f-833e-206cbc402674"
+Deleted message RequestId: "92c01bd0-0f20-5b9c-9859-4d7da533887f"
+Deleted message RequestId: "ad0dce04-5b07-541e-bf0e-98a9f11453fb"
+Received 4 messages from SQS queue.
+Processing message: This is the content for message 48.
+Processing message: This is the content for message 24.
+Processing message: This is the content for message 49.
+Processing message: This is the content for message 25.
+Deleted message RequestId: "0bdab291-cd59-58ba-82f9-e43c674d0d7c"
+Deleted message RequestId: "0b565e21-2169-5608-8ff8-088c8b7d11f2"
+Deleted message RequestId: "6c7d3653-34d7-5774-a92f-60fe9ec3a26b"
+Deleted message RequestId: "14e3e2de-df52-5e74-8c87-b4737546e3c9"
+Received 10 messages from SQS queue.
+Processing message: This is the content for message 34.
+Processing message: This is the content for message 35.
+Processing message: This is the content for message 0.
+Processing message: This is the content for message 1.
+Processing message: This is the content for message 12.
+Processing message: This is the content for message 13.
+Processing message: This is the content for message 40.
+Processing message: This is the content for message 22.
+Processing message: This is the content for message 41.
+Processing message: This is the content for message 23.
+Deleted message RequestId: "8af98773-92cf-50b6-befd-d1de38da074c"
+Deleted message RequestId: "613a6d5a-1952-5576-b261-3bf7b3474396"
+Deleted message RequestId: "5746ad49-3452-595d-b21d-fbe49e476324"
+Deleted message RequestId: "b98e0001-1efb-5915-afe1-56acb4eef635"
+Deleted message RequestId: "d280f042-90ff-5157-81e0-a6ef3aea8737"
+Deleted message RequestId: "cee4a322-ae62-5139-a65d-f58f0477d702"
+Deleted message RequestId: "740a49dc-46eb-551a-8e6d-1f71ecfe3321"
+Deleted message RequestId: "4762e2c9-e7f1-5c12-a110-b4644de4b34e"
+Deleted message RequestId: "42e965f7-464e-5614-91ae-335aec5bde6b"
+Deleted message RequestId: "15a353e9-686b-5548-82eb-0544c27ecd12"
+SQS queue empty, waiting for 60s.
+^C
+ec2-user:~/environment $ node index.js
+Successfully created SQS queue URL https://sqs.us-east-2.amazonaws.com/175028240505/backspace-lab
+Sending messages: This is a message from Amazon SNS
+Message sent by SNS: [object Object]
+Received 1 messages from SQS queue.
+Processing message: {
+  "Type" : "Notification",
+  "MessageId" : "3a002fe8-7bc1-5391-a889-7945d0abb223",
+  "TopicArn" : "arn:aws:sns:us-east-2:175028240505:backspace-sqssnsnodejs-lab",
+  "Message" : "This is a message from Amazon SNS",
+  "Timestamp" : "2020-01-31T04:12:26.844Z",
+  "SignatureVersion" : "1",
+  "Signature" : "OEMt31wHfARnd8NDRqcGGiMdTxlNYGbJnWQx61SS+UHl5mH1vzBM99hH8SDGyweDSupHHJWOPKD9w3PtDp5vpb8vdnGpW2liV86kDnKsBPU/iMBd2tR+dRWWF5nKd0FiqAdO4xcwXOf311daE0D9ki8tohT13OnK0BA3ozJyi9ZeaxSeTnKFN4/1ryTMgGyQQFUPND+bXLt9UeBn1rENKsY9MyuxOvf45lAbNf06KjamYXJf9eIvA24raW/c8otSzKAc3cEkqC6nTCEByQ3wjLxMUGa3akRvVNvhXRtVT//LSh1AAihZfscKVdU/W9zkjLXrMlMEEsK4q8tGjSdzAQ==",
+  "SigningCertURL" : "https://sns.us-east-2.amazonaws.com/SimpleNotificationService-a86cb10b4e1f29c941702d737128f7b6.pem",
+  "UnsubscribeURL" : "https://sns.us-east-2.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-2:175028240505:backspace-sqssnsnodejs-lab:4ac2268f-d0a0-4b2e-ac24-0b94b269be0c"
+}
+Deleted message RequestId: "13047ebd-08ba-5aeb-9c29-2810a3d1532e"
+SQS queue empty, waiting for 60s.
+^C
+ec2-user:~/environment $ 
